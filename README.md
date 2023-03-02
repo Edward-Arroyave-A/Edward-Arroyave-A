@@ -1,13 +1,12 @@
 <h1 align="center">¡Hola, soy Edward Arroyave! 👋</h1>
 <p align="center">
-  <a href="https://www.linkedin.com/in/tu-usuario-de-linkedin/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
-  <a href="https://twitter.com/tu-usuario-de-twitter"><img src="https://img.shields.io/badge/Twitter--_.svg?style=social&logo=twitter" alt="Twitter"></a>
-  <a href="https://github.com/tu-usuario-de-github"><img src="https://img.shields.io/badge/GitHub--_.svg?style=social&logo=github" alt="GitHub"></a>
+  <a href="https://www.linkedin.com/in/edward-arroyave-151a611a7/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+  <a href="https://github.com/Kravmaga01"><img src="https://img.shields.io/badge/GitHub--_.svg?style=social&logo=github" alt="GitHub"></a>
 </p>
 <h3  align="center">
     <strong> Celula: </strong> Desarrollo-1
 <h3>
-<p align="center">Soy un desarrollador  en la creación de API REST/GraphQL utilizando NodeJS, ExpressJS y el Framework NestJS. También tengo experiencia en el diseño e implementación de bases de datos relacionales con RDBMS como PostgreSQL y MySQL, así como en el uso de bases de datos no relacionales como MongoDB y Firestore.</p>
+
 
 <h3 align="center">🛠️ Tecnologías y herramientas</h3>
 <p align="center">
