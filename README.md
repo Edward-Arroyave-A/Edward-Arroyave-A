@@ -1,16 +1,16 @@
-### Hi there 👋
+Hola, soy Edward Arroyave 
+Desarrollador Full-Stack | NodeJS | ExpressJS | NestJS | PostgreSQL | MySQL | MongoDB | Firestore | .Net |
 
-<!--
-**Edward-Arroyave-A/Edward-Arroyave-A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sobre mí
+Soy un desarrollador Full-Stack con habilidades  en el desarrollo de API REST/GraphQL utilizando NodeJS, ExpressJS y el Framework NestJS. Además, tengo experiencia en el diseño e implementación de bases de datos relacionales con RDBMS como PostgreSQL y MySQL, así como en el uso de bases de datos no relacionales como MongoDB y Firestore.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Habilidades técnicas
+Lenguajes de programación: JavaScript, TypeScript, SQL
+Backend: NodeJS, ExpressJS, NestJS
+Bases de datos relacionales: PostgreSQL, MySQL
+Bases de datos no relacionales: MongoDB, Firestore
+APIs: REST, GraphQL
+Herramientas de control de versiones: Git, GitHub
+Contacto
+Correo electrónico: edward.arroyave@ithealth.co
+!
